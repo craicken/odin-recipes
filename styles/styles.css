@@ -41,7 +41,7 @@ padding-left: 22%;
 /* recipe pages */
 
 .blurb-image {
-    text-align: center;
+    text-align: left;
 }
 
 .description-container {
@@ -54,4 +54,8 @@ padding-left: 22%;
     padding-right: 70px;
     margin: 20px;
     margin-top: -20px;
+}
+
+.blurb-heading, .description-heading, .ingredients-heading, .steps-heading {
+    text-decoration: underline;
 }
