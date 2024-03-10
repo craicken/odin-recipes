@@ -3,6 +3,8 @@ body {
     background-color: #FFF3C7;
 }
 
+/* homepage */
+
 #title {
     text-align: center;
 }
@@ -34,4 +36,22 @@ padding-left: 22%;
     color: black;
     text-align: center;
     font-size: 25px;
+}
+
+/* recipe pages */
+
+.blurb-image {
+    text-align: center;
+}
+
+.description-container {
+    float: left;
+    margin: 20px;
+}
+
+.ingredients-container {
+    float: left;
+    padding-right: 70px;
+    margin: 20px;
+    margin-top: -20px;
 }
